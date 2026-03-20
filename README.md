@@ -1,8 +1,10 @@
 # 💫 About Me:
 About Me: 
 <br>
-I am a passionate Full Stack Developer with a strong focus on building scalable web applications and integrating AI-driven features. 
+I am a passionate Full Stack Developer with a strong focus on building scalable web applications and integrating AI-driven features.
+<br>
 I have hands-on experience in frontend (React, HTML, CSS, JavaScript), backend (Python, Node.js), and UI/UX design. 
+<br>
 I enjoy turning complex problems into simple, user-friendly solutions and continuously exploring new technologies.",
 <br>
 <br>
