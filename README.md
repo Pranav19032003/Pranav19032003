@@ -1,5 +1,60 @@
 # 💫 About Me:
-About Me: <br>I am a passionate Full Stack Developer with a strong focus on building scalable web applications and integrating AI-driven features. I have hands-on experience in frontend (React, HTML, CSS, JavaScript), backend (Python, Node.js), and UI/UX design. I enjoy turning complex problems into simple, user-friendly solutions and continuously exploring new technologies.",<br><br>Projects : <br><br>"AI Tool Recommender Platform – A web-based platform that helps users discover AI tools using search, categories, filters, and user reviews. Integrated LLM-based query understanding for intelligent recommendations."<br><br>"Multi-AI Comparison Web App – A React-based application that allows users to input a query and get responses from multiple AI models (ChatGPT, Gemini, Copilot, etc.) side-by-side for better decision-making."<br><br>"AI Tools Recommendation Website – A dynamic website with search and category filters, built using HTML, CSS, and JavaScript."<br><br>"Portfolio Website – A personal portfolio showcasing my projects, skills, and UI/UX capabilities."<br><br>Currently working On: A Job Portal Website with advanced features like AI Assistance, ATS Score Checker, smart job recommendations, and user-friendly dashboards for job seekers and recruiters.<br><br>Interested in Collaborating on: Full-stack web applications, AI-powered platforms, and innovative startup ideas involving real-world problem solving.<br><br>Seeking Assistance With: Improving system design skills, scaling applications, and integrating advanced AI/ML features efficiently into production-level projects.<br><br>Currently Learning: Advanced React patterns, backend architecture, system design fundamentals, and practical AI/ML integration in web applications.<br><br>Ask Me About: Web development, React, Python, building AI-based projects, UI/UX design, and how to turn ideas into real products.<br><br>  "Fun Fact": "I enjoy building projects that combine creativity with technology — especially where AI meets real-world usability."<br>
+About Me: 
+<br>
+I am a passionate Full Stack Developer with a strong focus on building scalable web applications and integrating AI-driven features. 
+I have hands-on experience in frontend (React, HTML, CSS, JavaScript), backend (Python, Node.js), and UI/UX design. 
+I enjoy turning complex problems into simple, user-friendly solutions and continuously exploring new technologies.",
+<br>
+<br>
+Projects : 
+<br>
+"AI Tool Recommender Platform" – 
+<br>
+A web-based platform that helps users discover AI tools using search, categories, filters, and user reviews. Integrated LLM-based query understanding for intelligent recommendations."
+<br>
+<br>"Multi-AI Comparison Web App" –
+<br>
+A React-based application that allows users to input a query and get responses from multiple AI models (ChatGPT, Gemini, Copilot, etc.) side-by-side for better decision-making."
+<br>
+<br>
+"AI Tools Recommendation Website" – 
+<br>
+A dynamic website with search and category filters, built using HTML, CSS, and JavaScript."
+<br>
+<br>
+"Portfolio Website" –
+<br>
+A personal portfolio showcasing my projects, skills, and UI/UX capabilities."
+<br>
+<br>
+Currently working On:
+<br>
+A Job Portal Website with advanced features like AI Assistance, ATS Score Checker, smart job recommendations, and user-friendly dashboards for job seekers and recruiters.<br>
+<br>
+Interested in Collaborating on: 
+<br>
+Full-stack web applications, AI-powered platforms, and innovative startup ideas involving real-world problem solving.
+<br>
+<br>
+Seeking Assistance With:
+<br>
+Improving system design skills, scaling applications, and integrating advanced AI/ML features efficiently into production-level projects.
+<br>
+<br>
+Currently Learning:
+<br>
+Advanced React patterns, backend architecture, system design fundamentals, and practical AI/ML integration in web applications.
+<br>
+<br>
+Ask Me About:
+<br>
+Web development, React, Python, building AI-based projects, UI/UX design, and how to turn ideas into real products.
+<br>
+<br>
+"Fun Fact":
+<br>
+"I enjoy building projects that combine creativity with technology — especially where AI meets real-world usability."
+<br>
 
 
 ## 🌐 Socials:
